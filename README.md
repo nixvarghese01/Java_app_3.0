@@ -1,3 +1,7 @@
+> **📌 Notes from Nixon Varghese**
+> Forked from [praveen1994dec/Java_app_3.0](https://github.com/praveen1994dec/Java_app_3.0) as a reference for **a Java app with a Jenkins pipeline**. Practice for Jenkins CI/CD on Java applications.
+> All credit for the content goes to the original authors.
+
 # kubernetes-configmap-reload
 
 Pre-requisites:
